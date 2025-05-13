@@ -1,1 +1,1 @@
-The final project of Basic Programming class
+The final project of Basic Programming cource
